@@ -1,5 +1,7 @@
 # Awesome SATySFi
 
+A curated list of awesome SATySFi packages, libraries, and resources.
+
 - [SATySFi](https://github.com/gfngfn/SATySFi) - A statically-typed, functional typesetting system
 
 ### Package Management
