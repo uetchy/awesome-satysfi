@@ -48,6 +48,7 @@ A curated list of awesome SATySFi packages, libraries, and resources.
 - Fonts
   - [SATySFi-fonts-theano](https://github.com/na4zagin3/SATySFi-fonts-theano) - SATySFi Font Package for Alexey Kryukov's Theano Classical Fonts
   - [SATySFi-fonts-geolab](https://github.com/na4zagin3/SATySFi-fonts-geolab) - SATySFi Font Package for GeoLab's Georgian fonts
+  - [monaqa/slydifi](https://github.com/monaqa/slydifi) - SATySFi で書けるスライドテーマ
 
 ### Modules / Libraries
 
